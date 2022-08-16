@@ -2,11 +2,13 @@ package nextdaycalculator;
 
 public class NextDayCalculator {
 
+    public static final String space = "/";
+
     public static String nextDay(int day, int month, int year) {
         int equal31days = 31;
         int equal30days = 30;
         int equal28or29days = 28;
-        String space = "/";
+
         switch (month) {
             case 1:
             case 3:

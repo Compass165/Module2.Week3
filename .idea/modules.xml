@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/Excercise/Excercise.iml" filepath="$PROJECT_DIR$/CleanCode/Excercise/Excercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/Excercise/Excercise1.iml" filepath="$PROJECT_DIR$/AutomatedTesting/Excercise/Excercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/Practice/Practice.iml" filepath="$PROJECT_DIR$/AutomatedTesting/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/Practice/Practice1.iml" filepath="$PROJECT_DIR$/CleanCode/Practice/Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/Reading/Reading.iml" filepath="$PROJECT_DIR$/AutomatedTesting/Reading/Reading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/Test/Test.iml" filepath="$PROJECT_DIR$/CleanCode/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/week3.iml" filepath="$PROJECT_DIR$/.idea/week3.iml" />
+    </modules>
+  </component>
+</project>

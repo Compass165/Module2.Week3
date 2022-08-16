@@ -1,7 +1,13 @@
-package tennisGame;
+mport org.junit.Before;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
 
 import java.util.Arrays;
 import java.util.Collection;
+
+
+import static org.junit.Assert.*;
 
 public class Test {
     private int player1Score;
