@@ -29,7 +29,8 @@ public class MyList<E> {
         if (i >= size || i < 0) {
             throw new IndexOutOfBoundsException("Index " + i + ", Size" + i);
         }
-        return (E) elements[i-1];
+        return (E) elements[i];
+//        return (E) elements[i-1];
     }
 
 
