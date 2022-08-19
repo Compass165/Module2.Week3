@@ -26,5 +26,4 @@ public class Change {
             System.out.println(stack.pop());
         }
     }
-
 }
